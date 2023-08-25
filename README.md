@@ -1,4 +1,4 @@
-### Hi there 👋 <br><br>
+### Hi there 👋 <br>
 
 # 💫 About Me:
 🔭 I'm currently working on Web Development Projects<br>👯 I'm looking to collaborate on web development related projects<br>🤝 I'm looking for help with developing the selenium automation that works as apart of ABM application<br>🌱 I'm currently learning python<br>⚡ If U can do a work, then don't do it for free for anyone<br><br>
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PremChandV&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
