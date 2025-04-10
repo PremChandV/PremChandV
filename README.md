@@ -55,7 +55,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremChandV&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
@@ -64,9 +64,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br><br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br><br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
 
-  ## 💰 You can help me by Donating
+### 💰 Donation Support
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buyme-coffee-usename-here) 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me-username-here) <br><br>
 
