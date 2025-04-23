@@ -63,7 +63,7 @@
 ![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
+ ![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
