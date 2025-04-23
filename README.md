@@ -88,9 +88,6 @@
 [![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) 
 [![Hits](https://hits.sh/github.com/PremChandV/PremChandV.svg)](https://hits.sh/github.com/PremChandV/PremChandV/)
 ![Profile Views](https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen&abbreviated=true) -->
-<a href="https://gruntjs.com/">
-  <img src="https://gruntjs.com/builtwith.svg?label=Built with Love" alt="Built with Love">
-</a>
 <p align="center"> <img src="https://hits.sh/github.com/PremChandV.svg?label=Hits&extraCount=10" alt="Hits" /> 
   <img src="https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen" alt="Profile Views" /> </p>
 
