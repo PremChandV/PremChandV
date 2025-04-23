@@ -65,7 +65,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br><br>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<img src="https://github-profile-trophy.vercel.app/?username=PremChandV&theme=juicyfresh&no-bg=true"/> <br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
