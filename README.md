@@ -1,5 +1,5 @@
 <!-- ### 👋 Hi there, This is Prem Chand 😄 <br><br> -->
-### ![](./Hi-HandWave.gif) Hi there, This is Prem Chand 😄 <br><br>
+### <img src="./Hi-HandWave.gif" width="35" height="35" style="margin-top: 30px;"/> Hi there, This is Prem Chand 😄 <br><br>
 
 # 💫 About Me:
 🔭 I'm currently working on Web Development Projects<br>
@@ -73,13 +73,15 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me-username-here) <br><br>
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=PremChandV&icon=5&color=3)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> <br><br><br>
+
+<!-- [![](https://visitcount.itsvg.in/api?id=PremChandV&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen" alt="Profile Views" /> </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
