@@ -57,9 +57,10 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat&logo=gitea&logoColor=5D9425) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PremChandV&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=PremChandV&theme=gruvbox-duo&short_numbers=true)](https://git.io/streak-stats)<br/> -->
+![Git Stat's](https://github-readme-stats.vercel.app/api?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=PremChandV&theme=default&hide_border=false)<br/>
+![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
@@ -84,7 +85,13 @@
 </picture> <br><br><br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=PremChandV&icon=5&color=3)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen" alt="Profile Views" /> </p>
+[![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) 
+[![Hits](https://hits.sh/github.com/PremChandV/PremChandV.svg)](https://hits.sh/github.com/PremChandV/PremChandV/)
+![Profile Views](https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen&abbreviated=true) -->
+<a href="https://gruntjs.com/">
+  <img src="https://gruntjs.com/builtwith.svg?label=Built with Love" alt="Built with Love">
+</a>
+<p align="center"> <img src="https://hits.sh/github.com/PremChandV.svg?label=Hits&extraCount=10" alt="Hits" /> 
+  <img src="https://komarev.com/ghpvc/?username=PremChandV&color=brightgreen" alt="Profile Views" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
