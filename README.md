@@ -7,7 +7,7 @@
 🔭 I'm currently working on Web Development Projects<br>
 👯 I'm looking to collaborate on web development related projects<br>
 🤝 I'm looking for help with developing the selenium automation that works as apart of ABM application<br>
-🌱 I'm currently learning python<br>
+🌱 I'm currently seeking freelancing projects<br>
 ⚡ If U can do a work, then don't do it for free for anyone<br><br>
 
 ## 🌐 Socials:
@@ -73,8 +73,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
 
 ### 💰 Donation Support
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buyme-coffee-usename-here) 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me-username-here) <br><br>
+ <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buyme-coffee-usename-here) 
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me-username-here) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/sponsors/PremChandV/dashboard)
+<br><br>
 
 ---
 
