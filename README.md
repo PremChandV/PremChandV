@@ -5,7 +5,7 @@
 <!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <br><br> -->
 
 # 💫 About Me:
-<img src="Coderr.gif" align="right" alt="Coding" width="250" height="200">
+<img src="Coderr.gif" align="right" alt="Coding" width="204" height="162">
 🔭 I'm currently working on Web Development Projects<br>
 👯 I'm looking to collaborate on web development related projects<br>
 🤝 I'm looking for help with developing the selenium automation that works as apart of ABM application<br>
