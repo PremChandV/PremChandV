@@ -1,10 +1,18 @@
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0MDE5NzQsIm5iZiI6MTc2NjQwMTY3NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIyVDExMDc1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjNWNiNTg1NDliNTgxYjc5ZWFiNmIwMTIzY2JjNTBlMzkxMGMxNTQwMmRhZGI0ZDBjODkxNGEyY2U2YmI0N2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Mnbpfx2ew3tIsGa-yBLHwP1-hQm6kG8PuFuB0TJHxRo)](https://github.com/PremChandV)
+
 <!-- ### 👋 Hi there, This is Prem Chand 😄 <br><br> 
 ### <img src="./Hi-HandWave.gif" width="35" height="35"/> Hi there, This is Prem Chand 😄 <br><br> -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Face%20With%20Smiling%20Eyes.webp" alt="Grinning Face With Smiling Eyes" width="30" height="30"/> <br> <br>
 
+<!-- <img src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" alt="Coding" width="250" height="400"> -->
+<!-- <img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" alt="Coding" width="250" height="400"> -->
+<!-- <img src="https://user-images.githubusercontent.com/38730778/214898529-09df2740-a727-4520-b73a-6a0d3723720c.gif" alt="Coding" width="250" height="400"> -->
+<!-- <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="Coding" width="250" height="400"> -->
+<img src="developer-working.gif" alt="Coding" width="400" height="300">
+
 <!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <br><br> -->
 
-# 💫 About Me:
+# 💫 About Me: <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0MDM0MjUsIm5iZiI6MTc2NjQwMzEyNSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIyVDExMzIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MWM0OTZlZGE4YzE1YTgxYzExODZkYmYzOWYyMDk0NmZlZjMxYTViOGE4YzdlNzNiZjI3NDMwOGMxMjI2NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zOk2RfG2Bprlh-mf4r22SH799BkK3t3ZMVZoneh78Hk" alt="cool-emoji" width="32" height="32">
 <img src="Coderr.gif" align="right" alt="Coding" width="204" height="162">
 🔭 I'm currently working on Web Development Projects<br>
 👯 I'm looking to collaborate on web development related projects<br>
@@ -90,6 +98,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> <br><br><br>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Hori-Line">
+</p>
 <!-- [![](https://visitcount.itsvg.in/api?id=PremChandV&icon=5&color=3)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=PremChandV&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) 
 [![Hits](https://hits.sh/github.com/PremChandV/PremChandV.svg)](https://hits.sh/github.com/PremChandV/PremChandV/)
