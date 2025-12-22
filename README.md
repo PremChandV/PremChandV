@@ -2,6 +2,7 @@
 
 <!-- ### 👋 Hi there, This is Prem Chand 😄 <br><br> 
 ### <img src="./Hi-HandWave.gif" width="35" height="35"/> Hi there, This is Prem Chand 😄 <br><br> -->
+<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <br><br> -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Face%20With%20Smiling%20Eyes.webp" alt="Grinning Face With Smiling Eyes" width="30" height="30"/>
 
 <!-- <img src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" alt="Coding" width="250" height="400"> -->
@@ -11,10 +12,8 @@
 <!-- <img src="developer-working.gif" alt="Coding" width="325" height="225"> -->
 <img src="hello-world.gif" alt="Coding" width="420" height="320">
 
-<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <br><br> -->
-
 # 💫 About Me: <img src="https://private-user-images.githubusercontent.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0MDM0MjUsIm5iZiI6MTc2NjQwMzEyNSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTUtNDdlYjI3MzQtYWRkYi00NmRhLWI0ZGQtNWUxNjE2Y2QzODUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIyVDExMzIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MWM0OTZlZGE4YzE1YTgxYzExODZkYmYzOWYyMDk0NmZlZjMxYTViOGE4YzdlNzNiZjI3NDMwOGMxMjI2NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zOk2RfG2Bprlh-mf4r22SH799BkK3t3ZMVZoneh78Hk" alt="cool-emoji" width="32" height="32">
-<img src="Coderr.gif" align="right" alt="Coding" width="204" height="162">
+<img src="Coderr.gif" align="right" alt="Coding" width="240" height="160">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" alt="Coding" width="204" height="162"> -->
 🔭 I'm currently working on Web Development Projects<br>
 👯 I'm looking to collaborate on web development related projects<br>
