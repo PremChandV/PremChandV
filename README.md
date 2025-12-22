@@ -8,7 +8,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" alt="Coding" width="250" height="400"> -->
 <!-- <img src="https://user-images.githubusercontent.com/38730778/214898529-09df2740-a727-4520-b73a-6a0d3723720c.gif" alt="Coding" width="250" height="400"> -->
 <!-- <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="Coding" width="250" height="400"> -->
-<img src="developer-working.gif" alt="Coding" width="325" height="225">
+<!-- <img src="developer-working.gif" alt="Coding" width="325" height="225"> -->
+<img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Coding" width="400" height="300">
 
 <!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi there, This is Prem Chand <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" /> <br><br> -->
 
