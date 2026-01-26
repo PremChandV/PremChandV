@@ -1,4 +1,7 @@
-[![MasterHead](./mygithub-header-banner.png)](https://github.com/PremChandV)
+<!-- [![MasterHead](./mygithub-header-banner.png)](https://github.com/PremChandV) -->
+<a href="https://github.com/PremChandV">
+  <img src="./mygithub-header-banner.png" alt="MasterHead" width="100%" height="300px">
+</a>
 
 <!-- ### 👋 Hi there, This is Prem Chand 😄 <br><br> 
 ### <img src="./Hi-HandWave.gif" width="35" height="35"/> Hi there, This is Prem Chand 😄 <br><br> -->
