@@ -81,12 +81,12 @@
 <!-- ![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br> -->
 ![Top Languages](https://ghstats.dev/api/langs?username=PremChandV)
 
-### 🔝 Top Contributed Repo
- ![Top Repo](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
+<!-- ### 🔝 Top Contributed Repo
+ ![Top Repo](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br> -->
 
-## 🏆 GitHub Trophies
-<!-- ![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<img src="https://github-profile-trophy.vercel.app/?username=PremChandV&theme=juicyfresh&no-bg=true"/> <br>
+<!-- ## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=PremChandV&theme=juicyfresh&no-bg=true"/> <br> -->
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
