@@ -75,7 +75,7 @@
 # 📊 GitHub Stats:
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=PremChandV&theme=gruvbox-duo&short_numbers=true)](https://git.io/streak-stats)<br/> -->
 <!-- ![Git Stat's](https://github-readme-stats.shion.dev/api?username=PremChandV&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![GitHub Stats Card](https://ghstats.dev/api/card?username=PremChandV&icon_color=#0099FF&hide_title=true&border_radius=5&hide=issues%2Cprs&order=streak%2Cstars%2Ccommits%2Crepos%2Chours%2Cavg%2Cactive_day%2Cweek%2Ctrend%2Ccontributions%2Cfollowers%2Cgrade)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=PremChandV&theme=default&hide_title=true&border_radius=5&hide=issues%2Cprs&order=streak%2Cstars%2Ccommits%2Crepos%2Chours%2Cavg%2Cactive_day%2Cweek%2Ctrend%2Ccontributions%2Cfollowers%2Cgrade)
 <!-- ![Git Streak](https://nirzak-streak-stats.vercel.app/?user=PremChandV&theme=default&hide_border=false) <br/> -->
 [![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=PremChandV&theme=default)](https://github-streak-bijay-shre-stha.vercel.app/PremChandV) <br>
 <!-- ![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br> -->
