@@ -74,19 +74,22 @@
 
 # 📊 GitHub Stats:
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=PremChandV&theme=gruvbox-duo&short_numbers=true)](https://git.io/streak-stats)<br/> -->
-![Git Stat's](https://github-readme-stats.vercel.app/api?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![Git Streak](https://nirzak-streak-stats.vercel.app/?user=PremChandV&theme=default&hide_border=false)<br/>
-![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+<!-- ![Git Stat's](https://github-readme-stats.vercel.app/api?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/> -->
+![GitHub Stats Card](https://ghstats.dev/api/card?username=PremChandV&theme=midnight&hide_border=true&hide_title=true) <br> 
+<!-- ![Git Streak](https://nirzak-streak-stats.vercel.app/?user=PremChandV&theme=default&hide_border=false) <br/> -->
+[![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=PremChandV&theme=default)](https://github-streak-bijay-shre-stha.vercel.app/PremChandV) <br>
+<!-- ![Git Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=PremChandV&theme=gruvbox-duo&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br> -->
+![Top Languages](https://ghstats.dev/api/langs?username=PremChandV)
 
 ### 🔝 Top Contributed Repo
- ![](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
+ ![Top Repo](https://github-contributor-stats.vercel.app/api?username=PremChandV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) <br><br>
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PremChandV&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<img src="https://github-profile-trophy.vercel.app/?username=PremChandV&theme=juicyfresh&no-bg=true"/> <br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=PremChandV&theme=juicyfresh&no-bg=true"/> <br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 💰 Donation Support
  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buyme-coffee-usename-here) 
